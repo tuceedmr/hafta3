@@ -1,0 +1,3 @@
+3. Hafta
+
+Bu hafta if-else yapısını öğrendik. Rastgele gol sayıları üreterek FB ve GS arasında maç sonucu belirleyen bir program yazdım. Random modülünü kullandım.
