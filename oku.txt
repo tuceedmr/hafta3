@@ -1,3 +1,6 @@
 3. Hafta
 
-Bu hafta if-else yapısını öğrendik. Rastgele gol sayıları üreterek FB ve GS arasında maç sonucu belirleyen bir program yazdım. Random modülünü kullandım.
+Bu hafta Python ile maç sonucu tahmini yapan bir program yazdım.  
+FB ve GS takımlarının attığı golleri rastgele belirledim.  
+Sonuçlara göre maçı kimin kazandığını ya da berabere kaldığını ekrana yazdırdım.  
+Bu çalışmada rastgele sayı üretmeyi ve if-else yapısını kullandım.
