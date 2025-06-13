@@ -1,0 +1,5 @@
+Hafta 3 Log:
+
+FB ve GS için rastgele gol sayıları üretildi.  
+Koşullu ifadelerle maç sonucu ekrana yazdırıldı.  
+Kod sorunsuz çalıştı.
